@@ -37,4 +37,4 @@ make help
 ```
 
 
-For examples, see [master](/cf1331/cmake_avr/tree/master).
+For examples, see [master](https://github.com/cf1331/cmake-avr/tree/master).
